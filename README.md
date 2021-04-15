@@ -19,4 +19,4 @@ npm install
 expo start
 ```
 
-### The app can also be accessed from this [link](exp://exp.host/@rejdiv/cryptotracker) after you have installed Expo Client on your phone.
+### The app can also be accessed from [exp://exp.host/@rejdiv/cryptotracker] after you have installed Expo Client on your phone.
